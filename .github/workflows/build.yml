@@ -343,6 +343,7 @@ jobs:
           android14 6.1 145 2025-09
           android14 6.1 157 2025-12
           android14 6.1 162 2026-03
+          android15 6.6 30 2024-08
           android15 6.6 50 2024-10
           android15 6.6 56 2024-11
           android15 6.6 57 2024-12

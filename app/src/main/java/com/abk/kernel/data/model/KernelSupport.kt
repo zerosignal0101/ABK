@@ -196,6 +196,7 @@ object KernelSupport {
         KernelSupportEntry("android14", "6.1", "145", "2025-09"),
         KernelSupportEntry("android14", "6.1", "157", "2025-12"),
         KernelSupportEntry("android14", "6.1", "162", "2026-03"),
+        KernelSupportEntry("android15", "6.6", "30", "2024-08"),
         KernelSupportEntry("android15", "6.6", "50", "2024-10"),
         KernelSupportEntry("android15", "6.6", "56", "2024-11"),
         KernelSupportEntry("android15", "6.6", "57", "2024-12"),
